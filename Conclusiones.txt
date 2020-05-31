@@ -1,0 +1,15 @@
+Conclusiones GIT/HUB
+
+Git es un programa de control de versiones muy importante para llevar un completo respaldo 
+de nuestro codigo de programación que nos brinda muchas funciones y caracteristicas como:
+Respaldo en nuestro directorio simultaneo con un servidor en la nube y ademas en un directorio 
+de cada usuario que modifica el codigo.
+
+Un control de versiones con detalle de las modificaciones realizadas por cada usuario.
+
+Es muy importante contar con una herramienta como estas por la importancia de tener siempre un respaldo de 
+nuestro trabajo, aprender a manejar esta herramienta requiere de estudio y concntración
+La clase número uno recibida me parecio muy interesante pues pudimos evidenciar algunos comandos utilizados 
+para realizar diferentes operaciones por medio de GIT, es necesario aprender varios comandos similiares a LINUX.
+
+Muchas gracias.
