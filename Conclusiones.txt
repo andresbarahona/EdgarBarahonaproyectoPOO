@@ -13,3 +13,5 @@ La clase número uno recibida me parecio muy interesante pues pudimos evidenciar
 para realizar diferentes operaciones por medio de GIT, es necesario aprender varios comandos similiares a LINUX.
 
 Muchas gracias.
+
+Una modificación
